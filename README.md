@@ -17,5 +17,4 @@
 
 
 ### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Ravin-A&show_icons=true&hide_title=true&hide=issues&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravin-A&layout=compact&theme=tokyonight)
